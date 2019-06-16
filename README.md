@@ -1,7 +1,6 @@
 # Chaos Engine™
 Developed by Team Mayhem™
 [![Engine Video](https://i.imgur.com/0lX2Fsu.jpg)](https://www.youtube.com/watch?v=Ox2pbvT2vFY "Chaos Engine Video")
-![alt text]()
 
 ## Description
 Chaos Engine is a C++/Opengl (later added support for Linux and Vulkan) developed by a team of 3 devs called Team Mayhem during a 5 month time period as part of a graduation project, The objective of this project was to make a Game engine from scratch using as few libraries as possible.
